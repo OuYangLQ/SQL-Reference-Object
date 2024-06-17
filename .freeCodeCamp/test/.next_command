@@ -22,3 +22,4 @@ touch sample.env
 git status
 git add .
 git commit -m "feat: add sample.env"
+git log -5 --oneline
