@@ -18,3 +18,4 @@ git commit -m "feat: add-gitignore"
 git reset HEAD~1
 git add .
 git commit -m "feat: add .gitignore"
+touch sample.env
