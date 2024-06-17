@@ -31,3 +31,8 @@ git merge feat/add-gitignore
 git branch -d feat/add-gitignore
 git log --oneline
 git log
+git push -u origin main
+cd ..
+git push -u origin main
+ls --color=auto
+git add .
