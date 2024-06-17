@@ -12,3 +12,4 @@ touch .env
 git status
 touch .gitignore
 git status
+git status
